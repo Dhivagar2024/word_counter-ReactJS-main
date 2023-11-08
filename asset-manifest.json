@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/word_counter-ReactJS-main/static/css/main.073c9b0a.css",
+    "main.js": "/word_counter-ReactJS-main/static/js/main.dfa2ecba.js",
+    "static/js/787.347f5e04.chunk.js": "/word_counter-ReactJS-main/static/js/787.347f5e04.chunk.js",
+    "index.html": "/word_counter-ReactJS-main/index.html",
+    "main.073c9b0a.css.map": "/word_counter-ReactJS-main/static/css/main.073c9b0a.css.map",
+    "main.dfa2ecba.js.map": "/word_counter-ReactJS-main/static/js/main.dfa2ecba.js.map",
+    "787.347f5e04.chunk.js.map": "/word_counter-ReactJS-main/static/js/787.347f5e04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dfa2ecba.js"
+  ]
+}
